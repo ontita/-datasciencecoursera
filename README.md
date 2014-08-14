@@ -1,4 +1,0 @@
--datasciencecoursera
-====================
-
-course project
